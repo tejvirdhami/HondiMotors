@@ -91,7 +91,7 @@
 </b></p>
 <hr />
 <br />
-<body>
+<body style="background-color:beige">
     <form id="frm" runat="server" class="form">
 
 
